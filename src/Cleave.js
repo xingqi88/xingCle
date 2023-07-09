@@ -5,6 +5,7 @@
  *
  * @param {String | HTMLElement} element
  * @param {Object} opts
+ * normal mode
  */
 var Cleave = function (element, opts) {
     var owner = this;
